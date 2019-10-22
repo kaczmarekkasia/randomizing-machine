@@ -13,7 +13,7 @@ public class RandomizingController {
     @Value("${random.words}")
     private String[] words;
 
-    @Value("${random.number}")
+    @Value("${random.numbers}")
     private String[] numbers;
 
     @GetMapping("/word")

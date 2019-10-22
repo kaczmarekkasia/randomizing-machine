@@ -1,6 +1,6 @@
 spring:
   application:
-    name: randomizing-machine
+    name: randomizig-machine
   cloud:
     config:
       uri: http://localhost:8002
